@@ -10,7 +10,6 @@ function UniqueValues(arr)
     while(j<=arr.length) {
         if(arr[i]===arr[j]) {
             j+=1;
-         
         }
         else {
             count++;
